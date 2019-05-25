@@ -1,0 +1,39 @@
+.line-perant{
+    display: flex;
+    align-items: center;
+}
+.line{
+    border-bottom: 1px solid #0000002b;
+    width: 100%;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.head-2{
+    display: flex;
+    flex-direction: row;
+}
+.section-1{
+    display: flex;
+    flex-direction: row;
+}
+.side-1{
+    background-color: #3f0e40;
+    color: aliceblue;
+}
+ul{
+    list-style: none;
+}
+#pera-icon{
+    color: darkgreen;
+}
+.search-bar p{
+    border: #260027 2px solid;
+    background-color: #260027;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 7px;
+}
